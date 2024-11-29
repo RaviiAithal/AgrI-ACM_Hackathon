@@ -31,7 +31,7 @@ pip install streamlit joblib numpy google-generativeai
    Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/RaviiAithal/AgrI-ACM_Hackathon
    cd <project_directory>
    ```
 
